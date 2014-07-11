@@ -1,0 +1,19 @@
+{
+  "name": "html5-video",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TBD"
+  },
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "dependencies": {
+    "engine.io": "~1.2.2",
+    "q": "~1.0.1"
+  }
+}
